@@ -4,12 +4,13 @@ import java.util.LinkedList;
 
 // This class represents an undirected
 // graph using adjacency list
+//vertix cover problem code
 class Graph
 {
     private int V; // No. of vertices
 
     // Array of lists for Adjacency List Representation
-    private final LinkedList<Integer>[] adj;
+    private final LinkedList[] adj;
 
     // Constructor
     Graph(int v)
@@ -72,7 +73,7 @@ class Graph
     }
 
     // Driver method
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         // Create a graph given in the above diagram
         Graph g = new Graph(7);
