@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new startup's...
 - 📫 How to reach me majumdarvishnu268@gmail.com..
 - this repository contain my first data analytics task which i recently completed 
-- 
+- https://public.tableau.com/shared/C68SBZN2R?:display_count=n&:origin=viz_share_link
 
 <!---
 MajumdarVishnu/MajumdarVishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
